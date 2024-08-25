@@ -1,3 +1,23 @@
+// #################################################
+// Javascript Program to Check if a number is Positive, Negative, or Zero
+// ##############################################
+
+
+// let number=parseInt(prompt("Enter the  number"));
+
+// if(number==0){
+//     document.write(`${number} is zero`)
+// }
+// else if(number>0){
+//     document.write(`${number} is positve`)
+
+// }else{
+//     document.write(`${number} is negitive`);
+// }
+
+
+
+
 // ##############################################
 // Javascript Program to Generate a Random Number
 // ###############################################
@@ -43,10 +63,6 @@
 
 // const Area = (height*base)/2
 // document.write(Area);
-
-
-
-
 
 
 
