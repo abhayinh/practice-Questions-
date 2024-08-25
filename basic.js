@@ -2,8 +2,8 @@
 // Javascript Program to Generate a Random Number
 // ###############################################
 
-let Random =Math.floor(Math.random()*100)+1;
-document.write(Random);
+// let Random =Math.floor(Math.random()*100)+1;
+// document.write(Random);
 
 
 
