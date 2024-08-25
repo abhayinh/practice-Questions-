@@ -1,4 +1,24 @@
 // #################################################
+// Javascript Program to Check if a Number is Odd or Even
+// ##################################################
+
+let number=parseInt(prompt("enter thr number"))
+
+if(number%2==0){
+    document.write('Number is even')
+}
+else{
+    document.write("Number is odd")
+}
+
+
+
+
+
+
+
+
+// #################################################
 // Javascript Program to Check if a number is Positive, Negative, or Zero
 // ##############################################
 
