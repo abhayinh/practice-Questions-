@@ -1,15 +1,39 @@
+// ########################################################
+// JavaScript Program to Find the Largest Among Three 
+// #########################################################
+
+
+let num1=parseInt(prompt("Enter the first number"));
+let num2=parseInt(prompt("Enter the Secound number"));
+let num3=parseInt(prompt("Enter the third number"));
+
+if(num1>num2 && num1>num3){
+    document.write(`${num1} is grater number`);
+}
+else if (num2>num3){
+    document.write(`${num2} is grater number`);
+
+}else{
+    document.write(`${num3} is grater number`)
+}
+
+
+
+
+
+
 // #################################################
 // Javascript Program to Check if a Number is Odd or Even
 // ##################################################
 
-let number=parseInt(prompt("enter thr number"))
+// let number=parseInt(prompt("enter thr number"))
 
-if(number%2==0){
-    document.write('Number is even')
-}
-else{
-    document.write("Number is odd")
-}
+// if(number%2==0){
+//     document.write('Number is even')
+// }
+// else{
+//     document.write("Number is odd")
+// }
 
 
 
